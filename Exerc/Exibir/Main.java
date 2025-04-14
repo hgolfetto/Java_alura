@@ -1,4 +1,4 @@
-package Exerc;
+package Exerc.Exibir;
 
 public class Main {
     public static void main(String[] args) {
